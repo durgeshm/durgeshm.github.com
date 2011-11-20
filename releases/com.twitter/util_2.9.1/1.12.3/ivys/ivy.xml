@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
+	<info organisation="com.twitter" module="util_2.9.1" revision="1.12.3" status="release" publication="20111119190033"/>
+	<configurations>
+		<conf name="default" visibility="public" description=""/>
+	</configurations>
+	<publications>
+		<artifact name="util_2.9.1" type="pom" ext="pom" conf="default"/>
+	</publications>
+	<dependencies>
+		<dependency org="com.twitter" name="util-codec_2.9.1" rev="1.12.3" conf="default->default(compile)">
+			
+			
+			
+			
+		</dependency>
+		<dependency org="com.twitter" name="util-logging_2.9.1" rev="1.12.3" conf="default->default(compile)">
+			
+			
+			
+			
+		</dependency>
+		<dependency org="com.twitter" name="util-reflect_2.9.1" rev="1.12.3" conf="default->default(compile)">
+			
+			
+			
+			
+		</dependency>
+		<dependency org="com.twitter" name="util-core_2.9.1" rev="1.12.3" conf="default->default(compile)">
+			
+			
+			
+			
+		</dependency>
+		<dependency org="com.twitter" name="util-hashing_2.9.1" rev="1.12.3" conf="default->default(compile)">
+			
+			
+			
+			
+		</dependency>
+		<dependency org="com.twitter" name="util-thrift_2.9.1" rev="1.12.3" conf="default->default(compile)">
+			
+			
+			
+			
+		</dependency>
+		<dependency org="com.twitter" name="util-eval_2.9.1" rev="1.12.3" conf="default->default(compile)">
+			
+			
+			
+			
+		</dependency>
+		<dependency org="com.twitter" name="util-collection_2.9.1" rev="1.12.3" conf="default->default(compile)">
+			
+			
+			
+			
+		</dependency>
+	</dependencies>
+</ivy-module>
